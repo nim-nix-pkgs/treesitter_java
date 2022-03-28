@@ -11,8 +11,8 @@
   inputs.src-treesitter_java-master.ref   = "refs/heads/master";
   inputs.src-treesitter_java-master.owner = "genotrance";
   inputs.src-treesitter_java-master.repo  = "nimtreesitter";
-  inputs.src-treesitter_java-master.dir   = "treesitter_java";
-  inputs.src-treesitter_java-master.type  = "github";
+    inputs.src-treesitter_java-master.dir   = "treesitter_java";
+inputs.src-treesitter_java-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
